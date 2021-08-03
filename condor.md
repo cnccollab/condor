@@ -19,13 +19,43 @@ The Mountain Crossing
 The Uncovered Tower
 -------------------
 
-#### 1. Tower Entrance
+![Map of the tower's first level](img/tower_L1.png)
 
-#### 2. Room 1
+Description of the tower's entrance. Pile of rocks, small opening because a part of the door was smashed in.
+After climbing the rocks, one needs to crawl into the opening and drop to the floor - not a big drop, but makes
+getting out a bit cumbersome (especially when pursued).
 
-#### 3. Room 2 (with stairs going up)
+#### 1. Entrance Hall
 
-#### 4. The Sorcerous Study
+High-ceilinged, a bit dirty, dust and rocks fell through the opening. Magically lights up.
+
+#### 2. Stairway 
+
+Small room with closed doors on both sides and an archway partially obscuring a staircase leading up.
+
+#### 3. Training Room
+
+The sorcerer's gym. Cheesy motivational poster in high elvish.
+
+A fencing dummy stands in a corner, armed with two blades that look like fine, expensive stuff, but it's hard to be sure without getting closer.
+
+Upon closer examination, yes, it's a blade trap - the dummy attacks. Treat as a +1 attack, but a successful dexterity save will give the dummy a -4 penalty to hit.
+
+Magyar fencing mannequin of Toldi, Toldi bábú, as visual reference - two sabres.
+
+Something of value here - a magical powder that sharpens every blade, even old and rusted ones? 
+
+#### 4. Scriptorium
+
+Half a dozen hands with sharp metal quills, tasked with making copies of a few manuscripts and never called off.
+Stacks of written paper sheets copied until the ink supply ran out.
+
+The hands with see the characters as a source of fresh, red ink, and will attack with the aim to draw blood.
+Once blood is drawn, the quillhands will automatically suck for a round, then return to their task, furiously scribbling.
+
+Something like 1d2 damage, a second 1d2 unless pulled out with a successful STR check, so max 2d2 and out of action (blood should last for an hour).
+
+#### 5. The Sorcerous Study
 
 - bookshelves
 - fancy stuff
