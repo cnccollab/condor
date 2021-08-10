@@ -27,7 +27,16 @@ getting out a bit cumbersome (especially when pursued).
 
 #### 1. Entrance Hall
 
-High-ceilinged, a bit dirty, dust and rocks fell through the opening. Magically lights up.
+---
+
+*You drop five feet down through the opening. The right wing of the door lies nearby, covered with debris. As your feet touch the dusty floor, it lights up. The stone floor is engraved with shining floral patterns, covering the whole area, like veins of liquid silver. The light is dim, but it's enough not to trip over the rocks and to notice that the room is slightly larger than it seemed from the outside of the tower.*
+
+---
+
+It's a high-ceilinged room, with two wrought iron benches and a closed metal door to the north.
+Anyone with the proper knowledge can recognize the patterns as high elven.
+Examining the patterns reveals that some of the leaf like shapes are actually blades.
+The door north is closed, but not locked.
 
 #### 2. Stairway 
 
