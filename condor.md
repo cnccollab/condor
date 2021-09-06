@@ -62,13 +62,19 @@ Something of value here - a magical powder that sharpens every blade, even old a
 
 #### 4. Scriptorium
 
-Half a dozen hands with sharp metal quills, tasked with making copies of a few manuscripts and never called off.
-Stacks of written paper sheets copied until the ink supply ran out.
+---
 
-The hands with see the characters as a source of fresh, red ink, and will attack with the aim to draw blood.
-Once blood is drawn, the quillhands will automatically suck for a round, then return to their task, furiously scribbling.
+*This dimly lit chamber is littered with dusty stacks of paper. You notice two bookshelves and an armchair to your left, but then, your eyes are drawn to sudden movement to your right, where several hand-shaped creatures jump down from three writing desks and rush towards you with reckless abandon.*
 
-Something like 1d2 damage, a second 1d2 unless pulled out with a successful STR check, so max 2d2 and out of action (blood should last for an hour).
+---
+
+The creatures are six **quillhands**, tasked with making copies of a few manuscripts, and never called off. Their ink supply ran off years ago, and they see the characters as a source of fresh, red ink. The quillhands will attack with the aim to draw blood. Once blood is drawn after a successfull attack, the quillhands will automatically drain blood on the next round, and then return to their task, filled with ink and furiously scribbling. The blood supply will last them for an hour.
+
+In the southern part of the room, there are two bookshelves, with a cushioned reading armchair between them. 
+
+The bookshelves contain volumes filled with strange formulae, in various languages, most of them unrecognizable. A careful search will reveal a few tomes in something resembling High Elven. Anyone who understands an elven language can discern that the books all deal with shaping metal, alchemy and forging processess, with the exception of a small, worn tome titled "The Lust Lizards of Melancholy Cove".
+
+The armchair between the bookshelves is very comfortable. Its hinged left arm lifts up to reveal a hidden storage compartment, holding a decanter set of exquisite quality (emerald glass, silver, amethyst - decanter worth 100gp, two glasses worth 25gp each). The decanter is half filled with plum wine that tastes like gazing at starlight while someone smashes your head with a large gold brick.
 
 #### 5. The Sorcerous Study
 
@@ -103,3 +109,9 @@ Portal Location 3
 
 Conclusion
 ----------
+
+Appendix A - New Monsters
+-------------------------
+
+### Quillhand
+
