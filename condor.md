@@ -40,7 +40,13 @@ The door north is closed, but not locked.
 
 #### 2. Stairway 
 
-The iron door opens into a small room with similar doors to the east and west. There's an archway to the north, partially obscuring stairs that spiral up to the first floor. The floor patterns with their faint light extend here too.
+---
+
+*The iron door opens into a small room with similar doors to the east and west, and an archway to the north.*
+
+---
+
+The archway to the north is partially obscuring a set of stairs that spiral up to the first floor. The floor patterns from the Entrance Hall extend here too, illuminating the room with faint light.
 
 #### 3. Training Room
 
